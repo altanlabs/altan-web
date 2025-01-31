@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://altan.ai/$1",
+      "permanent": true
+    }
+  ]
+}
