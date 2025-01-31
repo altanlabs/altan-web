@@ -1,0 +1,17 @@
+{
+  "solutions": {
+    "lm": "Lead-Management",
+    "inau": "Rechnungsautomatisierung",
+    "sm": "Soziale Medien",
+    "ma": "Meta-Anzeigen",
+    "sc": "Lieferkette",
+    "mk": "Marketing",
+    "sa": "Vertrieb",
+    "op": "Betrieb",
+    "ce": "Kundenerfahrung",
+    "fi": "Finanzen",
+    "it": "IT",
+    "pe": "Personal",
+    "pr": "Produktivität"
+  }
+}

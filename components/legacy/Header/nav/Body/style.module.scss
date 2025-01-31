@@ -1,0 +1,30 @@
+.body {
+
+    margin-top: 40px;
+
+    a {
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    p {
+        margin: 0px;
+        display: flex;
+        overflow: hidden;
+        font-size: 32px;
+        padding-top: 10px;
+        font-weight: 300;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+
+    .body {
+        max-width: 1000px;
+        margin-top: 60px;
+        p {
+            font-size: 4vw;
+            padding: 1vw;
+        }
+    }
+}

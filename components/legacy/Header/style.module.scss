@@ -1,0 +1,38 @@
+.header {
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  z-index: 99999;
+
+  .background {
+    background-color: black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 150;
+    bottom: 0
+  }
+
+  .el {
+    cursor: pointer;
+    transition: color 0.3s ease;
+
+    &:hover,
+    &.active {
+      color: #0070f3; // Change the color as per your design
+    }
+  }
+}
+
+
+@media only screen and (min-width: 600px) {
+  .header {
+    padding: 20px;
+    z-index: 99999;
+
+    .bar {
+      font-size: 15px;
+    }
+  }
+}

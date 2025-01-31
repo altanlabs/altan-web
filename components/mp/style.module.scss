@@ -1,0 +1,18 @@
+/* AltanerCard.module.css */
+.altanerCard {
+    height: 175px;
+    position: relative;
+    padding: 1rem;
+    /* equivalent to p-4 */
+    border-radius: 260px;
+    /* ensure this is applied correctly */
+    border: 1px solid var(--stroke);
+    /* replace with your actual color variable */
+    background-color: #333;
+    box-shadow: var(--shadow-solid-5);
+    /* replace with your actual shadow variable */
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+

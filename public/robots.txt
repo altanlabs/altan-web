@@ -1,0 +1,25 @@
+User-agent: *
+
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-statics.xml
+
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-es-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-en-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-fr-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-it-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-ja-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-pt-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-ru-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-zh-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-ar-apps.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-de-apps.xml
+
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-es-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-en-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-fr-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-it-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-ja-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-pt-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-ru-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-zh-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-ar-actions.xml
+Sitemap: https://altan.ai/sitemap-indexes/sitemap-index-de-actions.xml

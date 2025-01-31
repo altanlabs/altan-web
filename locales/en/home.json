@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "Build intelligent apps that automate everything.",
+    "subtitle": "Turn your automations into SaaS and manage everything from one powerful platform.",
+    "message": "Altan is now in beta"
+  },
+  "demos": {
+    "platformDescription": "The all-in-one platform for AI Automation",
+    "title": "Automation OS",
+    "description": "Create, manage, and monetize intelligent applications in one place. From AI agents to workflows, client management to analytics, Altan’s all-in-one platform empowers you to build, distribute, and scale automations effortlessly.",
+    "beyondWorkflows": {
+      "title": "Beyond workflows",
+      "holisticSolutions": {
+        "name": "Holistic solutions",
+        "copy": "Go beyond traditional workflows and create holistic solutions"
+      },
+      "customComponents": {
+        "name": "Custom components",
+        "copy": "Add multiple workflows to your app"
+      }
+    },
+    "noCodeAutomation": {
+      "title": "No code automation",
+      "builder": {
+        "name": "Builder",
+        "copy": "Design and automate workflows with our drag-and-drop builder."
+      },
+      "conditions": {
+        "name": "Conditions",
+        "copy": "Use advanced logic for precise automation."
+      },
+      "code": {
+        "name": "Code",
+        "copy": "Execute code for dynamic variable handling."
+      },
+      "invoke": {
+        "name": "Invoke",
+        "copy": "Invoke workflows for better reusability."
+      },
+      "retrigger": {
+        "name": "Retrigger",
+        "copy": "Re-trigger past webhook events easily."
+      }
+    }
+  },
+  "altaners": {
+    "enhancedWorkflowCapacity": "Enhanced Workflow Capacity",
+    "enhancedWorkflowDescription": "Create dynamic applications with nested workflows and intelligent routing.",
+    "aiPoweredAgents": "AI-Powered Agents",
+    "aiPoweredAgentsDescription": "Design AI agents and seamlessly integrate them into your workflows.",
+    "robustDynamicTables": "Robust Dynamic Tables",
+    "robustDynamicTablesDescription": "Effortlessly build and manage relational tables for your backend.",
+    "intuitiveFormsAndUI": "Intuitive Forms and UI",
+    "intuitiveFormsAndUIDescription": "Design drag-and-drop forms or use AI to create UI components.",
+    "unifiedNavigation": "Unified Navigation",
+    "unifiedNavigationDescription": "Easily navigate and manage all your components from one place.",
+    "automatedSolutionEnhanced": "Your Automated Solution, Enhanced",
+    "goBeyondWorkflows": "Altaners go beyond workflows.",
+    "combinedFeaturesDescription": "They combine automation, tables, AI agents, forms, and UI components into closed-source, monetized applications that work across use cases and industries.",
+    "learnMore": "Learn More",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "features": {
+    "altanMarketplace": {
+      "title": "Altan Marketplace",
+      "description": "Start quickly with pre-built templates or publish your own Altaners to the marketplace and reach new customers with ease.",
+      "learnMore": "Learn more"
+    },
+    "securityAndScalability": {
+      "title": "Security and Scalability",
+      "description": "Built for growth with enterprise-grade security, ensuring your apps scale seamlessly and your data remains protected."
+    },
+    "communityDrivenEcosystem": {
+      "title": "Community-Driven Ecosystem",
+      "description": "Join a vibrant community of creators and innovators. Share insights, learn from others, and collaborate to push the boundaries of automation.",
+      "joinTheClub": "Join the club"
+    }
+  },
+  "integrations": {
+    "sectionHeader": "Integrations & Add-ons",
+    "sectionTitle": "Make Altan uniquely yours",
+    "description": "Explore our vast library of integrations with +500 apps, or seamlessly integrate your own custom solutions to enhance your workflow.",
+    "exploreApps": "Explore apps",
+    "createYourOwn": "Create your own",
+    "illustrationAlt": "Page Illustration"
+  },
+  "testimonials": {
+    "item1": {
+      "quote": "Altan has transformed my workflow. The ability to create intelligent apps without complex coding has allowed me to scale my business and focus on clients.",
+      "name": "Sergi Bertran",
+      "role": "Automation Freelancer"
+    },
+    "item2": {
+      "quote": "With Altan, I can design robust automations and manage subscriptions all in one place. It’s the ultimate toolkit for any automation specialist looking to grow sustainably.",
+      "name": "Josep Salgueda",
+      "role": "Business Owner"
+    },
+    "item3": {
+      "quote": "Altan lets me take my automation services to the next level. Now I can monetize my creations seamlessly, helping me reach more clients with ease and confidence.",
+      "name": "Noyan Blidge",
+      "role": "Tech Entrepreneur"
+    }
+  },
+  "cta": {
+    "header": "Build, Monetize, and Scale with Altan",
+    "title": "Empower Your Automation Journey",
+    "description": "Join a growing community of creators who are building intelligent apps, automating complex workflows, and turning their expertise into sustainable income. All from one platform.",
+    "startCreating": "Start Creating"
+  }
+}

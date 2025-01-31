@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "Erstelle intelligente Apps, die alles automatisieren.",
+    "subtitle": "Verwandle deine Automatisierungen in SaaS und verwalte alles von einer leistungsstarken Plattform.",
+    "message": "Altan ist jetzt in der Beta"
+  },
+  "demos": {
+    "platformDescription": "Die All-in-One-Plattform für KI-Automatisierung",
+    "title": "Automatisierungs-OS",
+    "description": "Erstelle, verwalte und monetarisiere intelligente Anwendungen an einem Ort. Von KI-Agenten bis hin zu Workflows, Kundenmanagement bis Analysen, Altans All-in-One-Plattform befähigt dich, Automatisierungen mühelos zu bauen, zu vertreiben und zu skalieren.",
+    "beyondWorkflows": {
+      "title": "Jenseits von Workflows",
+      "holisticSolutions": {
+        "name": "Ganzheitliche Lösungen",
+        "copy": "Gehe über traditionelle Workflows hinaus und erstelle ganzheitliche Lösungen"
+      },
+      "customComponents": {
+        "name": "Benutzerdefinierte Komponenten",
+        "copy": "Füge deiner App mehrere Workflows hinzu"
+      }
+    },
+    "noCodeAutomation": {
+      "title": "No-Code-Automatisierung",
+      "builder": {
+        "name": "Builder",
+        "copy": "Entwerfe und automatisiere Workflows mit unserem Drag-and-Drop-Builder."
+      },
+      "conditions": {
+        "name": "Bedingungen",
+        "copy": "Verwende erweiterte Logik für präzise Automatisierung."
+      },
+      "code": {
+        "name": "Code",
+        "copy": "Führe Code für dynamische Variablenverarbeitung aus."
+      },
+      "invoke": {
+        "name": "Aufrufen",
+        "copy": "Rufe Workflows für bessere Wiederverwendbarkeit auf."
+      },
+      "retrigger": {
+        "name": "Erneut auslösen",
+        "copy": "Löse vergangene Webhook-Ereignisse einfach erneut aus."
+      }
+    }
+  },
+  "altaners": {
+    "enhancedWorkflowCapacity": "Erweiterte Workflow-Kapazität",
+    "enhancedWorkflowDescription": "Erstelle dynamische Anwendungen mit verschachtelten Workflows und intelligentem Routing.",
+    "aiPoweredAgents": "KI-gestützte Agenten",
+    "aiPoweredAgentsDescription": "Entwerfe KI-Agenten und integriere sie nahtlos in deine Workflows.",
+    "robustDynamicTables": "Robuste dynamische Tabellen",
+    "robustDynamicTablesDescription": "Erstelle und verwalte mühelos relationale Tabellen für dein Backend.",
+    "intuitiveFormsAndUI": "Intuitive Formulare und UI",
+    "intuitiveFormsAndUIDescription": "Entwerfe Drag-and-Drop-Formulare oder nutze KI, um UI-Komponenten zu erstellen.",
+    "unifiedNavigation": "Einheitliche Navigation",
+    "unifiedNavigationDescription": "Navigiere und verwalte all deine Komponenten von einem Ort aus.",
+    "automatedSolutionEnhanced": "Deine automatisierte Lösung, verbessert",
+    "goBeyondWorkflows": "Altaners gehen über Workflows hinaus.",
+    "combinedFeaturesDescription": "Sie kombinieren Automatisierung, Tabellen, KI-Agenten, Formulare und UI-Komponenten in geschlossenen, monetarisierten Anwendungen, die in verschiedenen Anwendungsfällen und Branchen funktionieren.",
+    "learnMore": "Erfahre mehr",
+    "previous": "Zurück",
+    "next": "Weiter"
+  },
+  "features": {
+    "altanMarketplace": {
+      "title": "Altan-Marktplatz",
+      "description": "Starte schnell mit vorgefertigten Vorlagen oder veröffentliche deine eigenen Altaners auf dem Marktplatz und erreiche mühelos neue Kunden.",
+      "learnMore": "Erfahre mehr"
+    },
+    "securityAndScalability": {
+      "title": "Sicherheit und Skalierbarkeit",
+      "description": "Für Wachstum gebaut mit Sicherheit auf Unternehmensniveau, die sicherstellt, dass deine Apps nahtlos skalieren und deine Daten geschützt bleiben."
+    },
+    "communityDrivenEcosystem": {
+      "title": "Community-getriebenes Ökosystem",
+      "description": "Schließe dich einer lebendigen Gemeinschaft von Kreativen und Innovatoren an. Teile Erkenntnisse, lerne von anderen und kollaboriere, um die Grenzen der Automatisierung zu erweitern.",
+      "joinTheClub": "Tritt dem Club bei"
+    }
+  },
+  "integrations": {
+    "sectionHeader": "Integrationen & Add-ons",
+    "sectionTitle": "Mach Altan einzigartig für dich",
+    "description": "Erkunde unsere umfangreiche Bibliothek von Integrationen mit über 500 Apps oder integriere nahtlos deine eigenen kundenspezifischen Lösungen, um deinen Workflow zu verbessern.",
+    "exploreApps": "Apps erkunden",
+    "createYourOwn": "Erstelle deine eigenen",
+    "illustrationAlt": "Seitenillustration"
+  },
+  "testimonials": {
+    "item1": {
+      "quote": "Altan hat meinen Workflow transformiert. Die Fähigkeit, intelligente Apps ohne komplexe Codierung zu erstellen, hat es mir ermöglicht, mein Geschäft zu skalieren und mich auf Kunden zu konzentrieren.",
+      "name": "Sergi Bertran",
+      "role": "Automatisierungs-Freelancer"
+    },
+    "item2": {
+      "quote": "Mit Altan kann ich robuste Automatisierungen entwerfen und Abonnements an einem Ort verwalten. Es ist das ultimative Toolkit für jeden Automatisierungsspezialisten, der nachhaltig wachsen möchte.",
+      "name": "Josep Salgueda",
+      "role": "Geschäftsinhaber"
+    },
+    "item3": {
+      "quote": "Altan ermöglicht es mir, meine Automatisierungsdienste auf die nächste Stufe zu heben. Jetzt kann ich meine Kreationen nahtlos monetarisieren und erreiche mehr Kunden mit Leichtigkeit und Vertrauen.",
+      "name": "Noyan Blidge",
+      "role": "Tech-Unternehmer"
+    }
+  },
+  "cta": {
+    "header": "Baue, monetarisiere und skaliere mit Altan",
+    "title": "Ermächtige deine Automatisierungsreise",
+    "description": "Schließe dich einer wachsenden Gemeinschaft von Kreativen an, die intelligente Apps bauen, komplexe Workflows automatisieren und ihr Fachwissen in nachhaltiges Einkommen verwandeln. Alles von einer Plattform aus.",
+    "startCreating": "Starte jetzt"
+  }
+}

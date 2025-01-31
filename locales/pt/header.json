@@ -1,0 +1,17 @@
+{
+  "solutions": {
+    "lm": "Gestão de leads",
+    "inau": "Automatização de faturas",
+    "sm": "Mídias sociais",
+    "ma": "Anúncios Meta",
+    "sc": "Cadeia de suprimentos",
+    "mk": "Marketing",
+    "sa": "Vendas",
+    "op": "Operações",
+    "ce": "Experiência do cliente",
+    "fi": "Finanças",
+    "it": "TI",
+    "pe": "Pessoas",
+    "pr": "Produtividade"
+  }
+}

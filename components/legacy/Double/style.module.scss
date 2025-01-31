@@ -1,0 +1,63 @@
+.double {
+    display: flex;
+
+    .imageContainer {
+        padding: 20px;
+        max-width: 700px; // Maximum width for larger screens
+        margin: auto; // Centers the container when smaller than the flex parent
+            border-radius: 20;
+        video {
+            max-height: 400px; // Maximum height for the video
+            width: 100%; // Ensures width is responsive within the container
+            object-fit: contain; // Keeps the aspect ratio and fits content within the frame
+            border-radius: 20;
+        }
+
+        &:nth-of-type(1) {
+            width: 66.66%;
+                        border-radius: 20;
+        }
+
+        &:nth-of-type(2) {
+            width: 33.33%;
+                        border-radius: 20;
+        }
+    }
+
+    &:nth-child(even) {
+        .imageContainer {
+            &:nth-of-type(1) {
+                width: 33.33%;
+                            border-radius: 20;
+            }
+
+            &:nth-of-type(2) {
+                width: 66.66%;
+                            border-radius: 20;
+            }
+        }
+    }
+
+    .body {
+        font-size: 16px;
+        padding: 10px;
+        gap: 10px;
+
+        h3 {
+            font-size: 1.2em;
+            margin-bottom: 5px;
+            margin-top: 0px;
+            font-weight: 400;
+        }
+
+        p {
+            font-size: 1em;
+            margin: 0px;
+            color: rgb(187, 187, 187);
+
+            &:nth-of-type(2) {
+                color: rgb(101, 101, 101);
+            }
+        }
+    }
+}

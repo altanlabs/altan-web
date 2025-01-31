@@ -1,0 +1,36 @@
+.nav {
+    z-index: 99;
+
+    .wrapper {
+        display: flex;
+        z-index: 99;
+        
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+        z-index: 99;
+        margin-left: 18%;
+    }
+}
+
+
+.projectContainer {
+    position: relative;
+    width: 100%;
+}
+
+.projectContainer div {
+    cursor: pointer;
+    position: relative;
+    margin-bottom: 4px;
+}
+
+.projectContainer div p {
+    margin: 0px;
+    font-size: 32px;
+    font-weight: 280;
+    text-transform: uppercase;
+    pointer-events: none;
+}
+

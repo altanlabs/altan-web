@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "すべてを自動化するインテリジェントなアプリを構築。",
+    "subtitle": "自動化をSaaSに変え、強力なプラットフォームで一元管理。",
+    "message": "Altanは現在ベータ版です"
+  },
+  "demos": {
+    "platformDescription": "AI自動化のためのオールインワンプラットフォーム",
+    "title": "オートメーションOS",
+    "description": "インテリジェントなアプリケーションを一か所で作成、管理、そして収益化。AIエージェントからワークフロー、クライアント管理から分析まで、Altanのオールインワンプラットフォームは、手軽に自動化を構築、配布、スケールするための力を提供します。",
+    "beyondWorkflows": {
+      "title": "ワークフローを超えて",
+      "holisticSolutions": {
+        "name": "包括的なソリューション",
+        "copy": "従来のワークフローを超え、包括的なソリューションを構築"
+      },
+      "customComponents": {
+        "name": "カスタムコンポーネント",
+        "copy": "複数のワークフローをアプリに追加"
+      }
+    },
+    "noCodeAutomation": {
+      "title": "ノーコード自動化",
+      "builder": {
+        "name": "ビルダー",
+        "copy": "ドラッグ＆ドロップビルダーでワークフローをデザインして自動化。"
+      },
+      "conditions": {
+        "name": "条件",
+        "copy": "正確な自動化のための高度なロジックを使用。"
+      },
+      "code": {
+        "name": "コード",
+        "copy": "動的変数の操作にコードを実行。"
+      },
+      "invoke": {
+        "name": "呼び出し",
+        "copy": "再利用性向上のためにワークフローを呼び出す。"
+      },
+      "retrigger": {
+        "name": "再トリガー",
+        "copy": "過去のWebhookイベントを簡単に再トリガー。"
+      }
+    }
+  },
+  "altaners": {
+    "enhancedWorkflowCapacity": "ワークフローの容量向上",
+    "enhancedWorkflowDescription": "ネストされたワークフローとインテリジェントルーティングでダイナミックなアプリケーションを作成。",
+    "aiPoweredAgents": "AI駆動エージェント",
+    "aiPoweredAgentsDescription": "AIエージェントをデザインし、ワークフローにシームレスに統合。",
+    "robustDynamicTables": "堅牢な動的テーブル",
+    "robustDynamicTablesDescription": "バックエンド用のリレーショナルテーブルを簡単に構築・管理。",
+    "intuitiveFormsAndUI": "直感的なフォームとUI",
+    "intuitiveFormsAndUIDescription": "ドラッグ＆ドロップフォームをデザインするか、AIでUIコンポーネントを作成。",
+    "unifiedNavigation": "統一されたナビゲーション",
+    "unifiedNavigationDescription": "すべてのコンポーネントを一か所から簡単に管理。",
+    "automatedSolutionEnhanced": "強化された自動化ソリューション",
+    "goBeyondWorkflows": "Altanersはワークフローを超えた機能を提供します。",
+    "combinedFeaturesDescription": "自動化、テーブル、AIエージェント、フォーム、UIコンポーネントを組み合わせ、さまざまな業種と用途に対応する閉鎖型、収益化アプリを提供。",
+    "learnMore": "詳細を知る",
+    "previous": "前へ",
+    "next": "次へ"
+  },
+  "features": {
+    "altanMarketplace": {
+      "title": "Altanマーケットプレイス",
+      "description": "事前構築済みのテンプレートを使用してすぐに開始するか、独自のAltanersをマーケットプレイスに公開して簡単に新しい顧客にリーチ。",
+      "learnMore": "詳細を知る"
+    },
+    "securityAndScalability": {
+      "title": "セキュリティとスケーラビリティ",
+      "description": "成長を見据えたエンタープライズ級のセキュリティで、アプリケーションがシームレスにスケールし、データが保護されます。"
+    },
+    "communityDrivenEcosystem": {
+      "title": "コミュニティ主導のエコシステム",
+      "description": "活気あるクリエーターとイノベーターのコミュニティに参加し、知見を共有し、他者から学び、共同で自動化の限界を拡げましょう。",
+      "joinTheClub": "クラブに参加"
+    }
+  },
+  "integrations": {
+    "sectionHeader": "インテグレーション＆アドオン",
+    "sectionTitle": "Altanを自分流にカスタマイズ",
+    "description": "500以上のアプリとの広範なライブラリを探索するか、独自のカスタムソリューションを統合してワークフローを強化。",
+    "exploreApps": "アプリを探す",
+    "createYourOwn": "独自のものを作成",
+    "illustrationAlt": "ページイラスト"
+  },
+  "testimonials": {
+    "item1": {
+      "quote": "Altanでワークフローが変わりました。複雑なコーディングなしでインテリジェントアプリを作成でき、ビジネスを拡大してクライアントに集中することができます。",
+      "name": "Sergi Bertran",
+      "role": "自動化フリーランサー"
+    },
+    "item2": {
+      "quote": "Altanで、強力な自動化をデザインし、サブスクリプションを一か所で管理できます。成長を目指す自動化スペシャリストの究極のツールです。",
+      "name": "Josep Salgueda",
+      "role": "ビジネスオーナー"
+    },
+    "item3": {
+      "quote": "Altanにより、私の自動化サービスが次のレベルに達しました。今ではシームレスに作成物を収益化でき、自信を持ってより多くのクライアントに届けられます。",
+      "name": "Noyan Blidge",
+      "role": "テクノロジー起業家"
+    }
+  },
+  "cta": {
+    "header": "Altanで構築、収益化、スケール",
+    "title": "自動化の旅を強化",
+    "description": "インテリジェントなアプリを構築し、複雑なワークフローを自動化し、専門知識を持続可能な収入に変えるクリエーターの成長するコミュニティに参加しましょう。すべて一つのプラットフォームから。",
+    "startCreating": "作成を開始"
+  }
+}

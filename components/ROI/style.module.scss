@@ -1,0 +1,106 @@
+.main {
+    padding-top: 100px; // Adjust the padding as needed
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #121212; // Dark background color
+}
+
+.heroSection {
+    padding: 60px 20px; // Add padding to the hero section
+}
+
+.featuresSection,
+.testimonialsSection,
+.benefitsSection,
+.finalCtaSection,
+.roiCalculatorSection {
+    padding: 60px 20px; // Add padding to other sections
+    // ... other styles
+}
+
+.roiCalculatorSection {
+    background-color: #1e1e1e; // Darker background for the calculator
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    padding: 40px;
+    text-align: center;
+    max-width: 1000px; // Increase the max-width
+    width: 100%;
+    color: #ffffff; // White text color
+}
+
+.roiCalculatorSection .inputGroup {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.roiCalculatorSection .inputGroup label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #ffffff; // White text color
+}
+
+.roiCalculatorSection .inputGroup input {
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #444444; // Dark border color
+    border-radius: 4px;
+    background-color: #2e2e2e; // Dark input background
+    color: #ffffff; // White text color
+}
+
+.roiCalculatorSection .switch {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.roiCalculatorSection .result {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.roiCalculatorSection .card {
+    // background-color: #2e2e2e;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    flex: 1;
+    min-width: 250px; // Increase the min-width
+    max-width: 300px; // Increase the max-width
+    text-align: center;
+}
+
+.roiCalculatorSection .card.red {
+    border: 2px solid #ff4c4c;
+}
+
+.roiCalculatorSection .card.blue {
+    border: 2px solid #4c6ef5;
+}
+
+.roiCalculatorSection .card.green {
+    border: 2px solid #4caf50;
+}
+
+.roiCalculatorSection .card h6 {
+    font-size: 1rem; // Smaller text for the card title
+}
+
+.roiCalculatorSection .card h5 {
+    font-size: 2rem; // Bigger text for the numbers
+}
+
+.roiCalculatorSection .card .period {
+    font-size: 0.875rem; // Smaller text for the period
+    margin-top: 5px;
+    color: #cccccc; // Lighter color for the period text
+}

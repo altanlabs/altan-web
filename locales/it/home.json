@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "title": "Costruisci app intelligenti che automatizzano tutto.",
+    "subtitle": "Trasforma le tue automazioni in SaaS e gestisci tutto da un'unica potente piattaforma.",
+    "message": "Altan è ora in beta"
+  },
+  "demos": {
+    "platformDescription": "La piattaforma tutto-in-uno per l'automazione IA",
+    "title": "OS di Automazione",
+    "description": "Crea, gestisci e monetizza applicazioni intelligenti in un unico luogo. Dagli agenti IA ai flussi di lavoro, gestione clienti ad analisi, la piattaforma tutto-in-uno di Altan ti consente di costruire, distribuire e scalare automazioni senza sforzo.",
+    "beyondWorkflows": {
+      "title": "Oltre i flussi di lavoro",
+      "holisticSolutions": {
+        "name": "Soluzioni olistiche",
+        "copy": "Vai oltre i flussi di lavoro tradizionali e crea soluzioni olistiche"
+      },
+      "customComponents": {
+        "name": "Componenti personalizzati",
+        "copy": "Aggiungi più flussi di lavoro alla tua app"
+      }
+    },
+    "noCodeAutomation": {
+      "title": "Automazione senza codice",
+      "builder": {
+        "name": "Builder",
+        "copy": "Progetta e automatizza flussi di lavoro con il nostro builder drag-and-drop."
+      },
+      "conditions": {
+        "name": "Condizioni",
+        "copy": "Usa logica avanzata per un'automazione precisa."
+      },
+      "code": {
+        "name": "Codice",
+        "copy": "Esegui codice per gestire variabili dinamiche."
+      },
+      "invoke": {
+        "name": "Invoca",
+        "copy": "Invoca flussi di lavoro per una migliore riutilizzabilità."
+      },
+      "retrigger": {
+        "name": "Riattiva",
+        "copy": "Riattiva facilmente eventi webhook passati."
+      }
+    }
+  },
+  "altaners": {
+    "enhancedWorkflowCapacity": "Capacità di flusso di lavoro migliorata",
+    "enhancedWorkflowDescription": "Crea applicazioni dinamiche con flussi di lavoro nidificati e routing intelligente.",
+    "aiPoweredAgents": "Agenti potenziati dall'IA",
+    "aiPoweredAgentsDescription": "Progetta agenti IA e integrali senza problemi nei tuoi flussi di lavoro.",
+    "robustDynamicTables": "Tabelle dinamiche robuste",
+    "robustDynamicTablesDescription": "Costruisci e gestisci facilmente tabelle relazionali per il tuo backend.",
+    "intuitiveFormsAndUI": "Form e UI intuitivi",
+    "intuitiveFormsAndUIDescription": "Progetta form drag-and-drop o usa l'IA per creare componenti UI.",
+    "unifiedNavigation": "Navigazione unificata",
+    "unifiedNavigationDescription": "Naviga e gestisci tutti i tuoi componenti da un unico luogo.",
+    "automatedSolutionEnhanced": "La tua soluzione automatizzata, migliorata",
+    "goBeyondWorkflows": "Gli Altaners vanno oltre i flussi di lavoro.",
+    "combinedFeaturesDescription": "Combinano automazione, tabelle, agenti IA, form e componenti UI in applicazioni chiuse e monetizzate che funzionano in vari casi d'uso e settori.",
+    "learnMore": "Scopri di più",
+    "previous": "Precedente",
+    "next": "Successivo"
+  },
+  "features": {
+    "altanMarketplace": {
+      "title": "Altan Marketplace",
+      "description": "Inizia rapidamente con modelli predefiniti o pubblica i tuoi Altaners sul marketplace e raggiungi nuovi clienti con facilità.",
+      "learnMore": "Scopri di più"
+    },
+    "securityAndScalability": {
+      "title": "Sicurezza e scalabilità",
+      "description": "Costruito per la crescita con sicurezza di livello enterprise, garantendo che le tue app si scalino senza problemi e che i tuoi dati rimangano protetti."
+    },
+    "communityDrivenEcosystem": {
+      "title": "Ecosistema guidato dalla comunità",
+      "description": "Unisciti a una vibrante comunità di creatori e innovatori. Condividi approfondimenti, impara dagli altri e collabora per spingere i confini dell'automazione.",
+      "joinTheClub": "Unisciti al club"
+    }
+  },
+  "integrations": {
+    "sectionHeader": "Integrazioni e componenti aggiuntivi",
+    "sectionTitle": "Rendi Altan unico per te",
+    "description": "Esplora la nostra vasta libreria di integrazioni con oltre 500 app, o integra senza problemi le tue soluzioni personalizzate per migliorare il tuo flusso di lavoro.",
+    "exploreApps": "Esplora le app",
+    "createYourOwn": "Crea la tua",
+    "illustrationAlt": "Illustrazione della pagina"
+  },
+  "testimonials": {
+    "item1": {
+      "quote": "Altan ha trasformato il mio flusso di lavoro. La capacità di creare app intelligenti senza codifica complessa mi ha permesso di scalare il mio business e concentrarmi sui clienti.",
+      "name": "Sergi Bertran",
+      "role": "Freelancer di automazione"
+    },
+    "item2": {
+      "quote": "Con Altan, posso progettare automazioni robuste e gestire gli abbonamenti tutto in un unico posto. È lo strumento definitivo per qualsiasi specialista di automazione che desidera crescere in modo sostenibile.",
+      "name": "Josep Salgueda",
+      "role": "Proprietario di azienda"
+    },
+    "item3": {
+      "quote": "Altan mi permette di portare i miei servizi di automazione al livello successivo. Ora posso monetizzare le mie creazioni senza problemi, aiutandomi a raggiungere più clienti con facilità e fiducia.",
+      "name": "Noyan Blidge",
+      "role": "Imprenditore tecnologico"
+    }
+  },
+  "cta": {
+    "header": "Costruisci, monetizza e scala con Altan",
+    "title": "Potenzia il tuo viaggio nell'automazione",
+    "description": "Unisciti a una comunità in crescita di creatori che stanno costruendo app intelligenti, automatizzando flussi di lavoro complessi e trasformando la loro esperienza in un reddito sostenibile. Tutto da un'unica piattaforma.",
+    "startCreating": "Inizia a creare"
+  }
+}

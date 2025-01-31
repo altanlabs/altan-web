@@ -1,0 +1,17 @@
+{
+  "solutions": {
+    "lm": "Lead management",
+    "inau": "Invoice Automation",
+    "sm": "Social Media",
+    "ma": "Meta Ads",
+    "sc": "Supply chain",
+    "mk": "Marketing",
+    "sa": "Sales",
+    "op": "Operations",
+    "ce": "Customer Experience",
+    "fi": "Finance",
+    "it": "IT",
+    "pe": "People",
+    "pr": "Productivity"
+  }
+}

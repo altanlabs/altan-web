@@ -1,0 +1,90 @@
+/* pages/[altaner]/style.module.scss */
+
+.altanerWrapper {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.colorOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999; // Ensures the overlay is on top
+    mix-blend-mode: color;
+    pointer-events: none;
+    background-color: inherit; // Use the color from the inline style
+}
+
+.main {
+    position: relative;
+    z-index: 1; // Ensure main content is below the overlay
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    padding-top: 80px; // Adjust the padding as needed
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.heroSection {
+    position: relative;
+    padding: 60px 20px; // Add padding to the hero section
+    padding: 100px 0;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+.overlayBg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.2;
+    z-index: -1;
+}
+
+.content {
+    text-align: center;
+}
+
+.featuresSection,
+.testimonialsSection,
+.benefitsSection,
+.finalCtaSection {
+    padding: 60px 20px; // Add padding to other sections
+    // ... other styles
+}
+
+.gradientText {
+  background: linear-gradient(to bottom, #e0f7fa, #0288d1); // Light blue/white-ish to blue-ish
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+
+
+.videoWrapper {
+    position: relative;
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
+    aspect-ratio: 16 / 9; /* Explicitly set the aspect ratio */
+}
+
+.videoWrapper > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
